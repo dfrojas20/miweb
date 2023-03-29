@@ -1,2 +1,4 @@
 cositas de config
 users = [douglas,camila,alex]
+
+passwords = [230416, 160344, 778899]
